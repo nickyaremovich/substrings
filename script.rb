@@ -10,4 +10,4 @@ def substrings(strings, dictionary)
   result 
 end
 
-p substrings("Howdy partner, sit down! How's it going?", dictionary)
+puts substrings("Howdy partner, sit down! How's it going?", dictionary)
